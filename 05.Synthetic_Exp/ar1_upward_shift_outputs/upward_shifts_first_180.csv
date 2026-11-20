@@ -1,0 +1,4 @@
+shift_time,sigma_before,sigma_after,window,start,end,n_observations,n_failures,n_failures_LE_above_EWMA,fraction_above_among_failures,pct_above_among_failures,pct_above_among_all_observations
+1800,0.06,0.17,immediate,1800,1979,180,54,36,0.6666666666666666,66.66666666666667,20.0
+3800,0.09,0.21,immediate,3800,3979,180,52,40,0.7692307692307693,76.92307692307692,22.22222222222222
+5800,0.1,0.23,immediate,5800,5979,180,50,37,0.74,74.0,20.555555555555557

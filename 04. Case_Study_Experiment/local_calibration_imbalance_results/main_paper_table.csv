@@ -1,0 +1,1 @@
+dataset,method,policy,price_short,price_surplus,n_blocks,n_hours,PICP,LPIA,LPICE,MPIW_MW,mean_C_total_EUR_per_24h,mean_C_short_EUR_per_24h,mean_C_surplus_EUR_per_24h,p90_C_total_EUR_per_24h,total_cost_EUR,saving_vs_ACI_pct

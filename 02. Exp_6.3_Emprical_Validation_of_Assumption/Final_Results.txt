@@ -1,0 +1,20 @@
+
+                                source  n_failure_points  n_assumption_holds  pct_assumption_holds  mean_LE_at_failures  mean_LEbar_at_failures  mean_diff
+                      50Hertz__ACI.csv               436                 281             64.449541             0.096923                0.052987   0.043936
+                50Hertz__Normal_QR.csv               859                 594             69.150175             0.159129                0.112950   0.046179
+                      Amprion__ACI.csv               417                 262             62.829736             0.114608                0.072155   0.042454
+                Amprion__Normal_QR.csv               798                 548             68.671679             0.161236                0.106274   0.054962
+                    Location1__ACI.csv               505                 297             58.811881             0.092855                0.047951   0.044904
+              Location1__Normal_QR.csv               352                 174             49.431818             0.043205                0.020787   0.022419
+                    Location2__ACI.csv               486                 275             56.584362             0.069719                0.040375   0.029344
+              Location2__Normal_QR.csv               361                 172             47.645429             0.035688                0.016635   0.019053
+      Plant_1_Generation_Data__ACI.csv               372                 235             63.172043             0.246797                0.211188   0.035608
+Plant_1_Generation_Data__Normal_QR.csv               330                 205             62.121212             0.116187                0.059026   0.057161
+      Plant_2_Generation_Data__ACI.csv               440                 370             84.090909             0.130473                0.097622   0.032852
+Plant_2_Generation_Data__Normal_QR.csv               554                 380             68.592058             0.218336                0.152925   0.065411
+                    TenneTTSO__ACI.csv               428                 263             61.448598             0.103388                0.058284   0.045104
+              TenneTTSO__Normal_QR.csv               798                 549             68.796992             0.159054                0.108355   0.050699
+                   TransnetBW__ACI.csv               425                 239             56.235294             0.067510                0.038699   0.028811
+             TransnetBW__Normal_QR.csv               636                 414             65.094340             0.129914                0.075142   0.054772
+           hydropower_dataset__ACI.csv               193                 137             70.984456             0.240717                0.144892   0.095825
+     hydropower_dataset__Normal_QR.csv               248                 167             67.338710             0.177957                0.106501   0.071456

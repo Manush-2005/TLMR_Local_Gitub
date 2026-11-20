@@ -1,0 +1,2 @@
+source,n_failure_points,n_assumption_holds,pct_assumption_holds,mean_LE_at_failures,mean_LEbar_at_failures,mean_diff
+synthetic_run,435,292,67.1264367816092,0.14898467432950194,0.08513744476151003,0.0638472295679919
