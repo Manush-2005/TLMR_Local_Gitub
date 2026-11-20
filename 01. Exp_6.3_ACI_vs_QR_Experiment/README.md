@@ -6,7 +6,7 @@ Corresponds to **Section 6.3, Table 4 and Figure 3** of the paper.
 
 ## Files
 
-- `Exp_6.2_final.ipynb`: main notebook. Trains QR and ACI on all 9 datasets and computes all metrics.
+- `Exp_6.3_final.ipynb`: main notebook. Trains QR and ACI on all 9 datasets and computes all metrics.
 - `Final_Results.txt`: aggregated numerical output of the notebook run.
 - `results_all_methods_all_datasets.csv`: per-method, per-dataset metric table.
 - `Helper_Scripts/`
@@ -19,7 +19,7 @@ Corresponds to **Section 6.3, Table 4 and Figure 3** of the paper.
 ## Run
 
 ```bash
-jupyter notebook Exp_6.2_final.ipynb
+jupyter notebook Exp_6.3_final.ipynb
 ```
 
 Run all cells. Trajectory CSVs are written to `trajectories/LSTM/` and the aggregated results to `Final_Results.txt`.
