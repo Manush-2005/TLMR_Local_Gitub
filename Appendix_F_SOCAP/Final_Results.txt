@@ -1,0 +1,32 @@
+       dataset method     PICP      MPIW   MLPICP    LPICE     LPIA     LMPIW      LCWC   STD_LE  n_local_windows  time_sec  scale_D_from_cal  g_lifetime  mean_radius  median_radius  base_quantile_PICP
+50Hertz.csv  SAOCP 0.927902 57.250317 0.928175 0.010900 0.734126 57.347509  4.788390 0.022525             4457   206.344        132.993982           8    28.625158      25.474055            0.784152
+Amprion.csv  SAOCP 0.934598 46.787386 0.934429 0.005245 0.822751 46.852952  1.570961 0.012686             4457   196.875        366.208488           8    23.393693      20.122912            0.789955
+TenneTTSO.csv  SAOCP 0.939955 65.161472 0.939646 0.005106 0.870541 65.140892 17.538160 0.017462             4457   197.281        491.610924           8    32.580736      27.089147            0.799330
+TransnetBW.csv  SAOCP 0.923661 14.446314 0.923837 0.011497 0.743549 14.445453 19.636996 0.025344             4457   260.328         45.273866           8     7.223157       6.280957            0.874777
+Location1.csv  SAOCP 0.925081 0.037851 0.924900 0.009532 0.762426 0.037844 1.001878 0.021354             4929   353.844          0.072002           8     0.018925       0.017082            0.928514
+Location2.csv  SAOCP 0.922859 0.034707 0.922778 0.010650 0.726517 0.034713 3.251780 0.021525             4929   388.875          0.056446           8     0.017354       0.015699            0.925889
+Plant_1_Generation_Data.csv  SAOCP 0.958271  720.382538 0.958207 0.001894 0.933797  713.069067  9.716799 0.007728             3308   129.766       4776.214156           8   360.191269     266.804779            0.876313
+Plant_2_Generation_Data.csv  SAOCP 0.933873 2121.229599 0.933586 0.006812 0.800056 2114.698032 16.584784 0.016167             3561   134.781       5762.043193           8  1060.614799     901.031446            0.795759
+hydropower_dataset.csv  SAOCP 0.938206 167.691632 0.938906 0.006899 0.838731 166.516421 16.382435 0.020982             1482     6.578        157.286134           8    83.845816      71.849669            0.767442
+
+
+
+
+
+
+#LACI : 
+
+     dataset                 method     PICP      MPIW   MLPICP    LPICE     LPIA     LMPIW         LCWC   STD_LE  n_local_windows  time_sec  mean_radius  median_radius  mean_alpha  mean_weighted_err
+   Amprion.csv LACI_midpoint_absolute 0.931250 40.109528 0.930895 0.032202 0.764191 40.093406 7.318911e+07 0.080912             4457   220.266    20.054764      18.901925    0.109025           0.098008
+ TenneTTSO.csv LACI_midpoint_absolute 0.929018 49.696719 0.928652 0.029929 0.752300 49.652967 6.446344e+07 0.073279             4457   235.953    24.848360      21.723556    0.121044           0.099129
+TransnetBW.csv LACI_midpoint_absolute 0.929688 14.753970 0.929325 0.028332 0.736145 14.737860 3.021802e+05 0.063732             4457   248.422     7.376985       6.865530    0.127333           0.093809
+              dataset                 method     PICP       MPIW   MLPICP    LPICE     LPIA      LMPIW         LCWC   STD_LE  n_local_windows  time_sec  mean_radius  median_radius  mean_alpha  mean_weighted_err
+hydropower_dataset.csv LACI_midpoint_absolute 0.899003 182.907765 0.904184 0.050709 0.665317 182.654608 2.711964e+14 0.117007             1482     7.437    91.453882      89.573099    0.079346           0.124637
+
+      dataset                 method     PICP     MPIW   MLPICP    LPICE     LPIA    LMPIW         LCWC   STD_LE  n_local_windows  time_sec  mean_radius  median_radius  mean_alpha  mean_weighted_err
+Location1.csv LACI_midpoint_absolute 0.921648 0.045309 0.921629 0.029472 0.744573 0.045331 4.720635e+08 0.073447             4929   237.562     0.022655       0.020981    0.069275           0.106416
+Location2.csv LACI_midpoint_absolute 0.919225 0.039261 0.919144 0.028650 0.693244 0.039294 2.568060e+06 0.065843             4929   237.203     0.019630       0.018308    0.073993           0.104400
+
+   dataset                 method     PICP        MPIW   MLPICP    LPICE     LPIA       LMPIW         LCWC   STD_LE  n_local_windows  time_sec  mean_radius  median_radius  mean_alpha  mean_weighted_err
+Plant_1_Generation_Data.csv LACI_midpoint_absolute 0.909637 1606.664720 0.912447 0.048259 0.722189 1608.128011 1.668695e+14 0.122945             3308   139.407   803.332360    1166.741954    0.069039           0.122849
+Plant_2_Generation_Data.csv LACI_midpoint_absolute 0.936384 5997.604729 0.936230 0.021040 0.786015 5989.538120 3.768789e+04 0.054483             3561   147.813  2998.802365    2860.482023    0.044459           0.124534
