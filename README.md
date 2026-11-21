@@ -1,7 +1,7 @@
 
 # Local Matters: Calibration Requirements in Online Conformal Forecasting
  
-Code and datasets for the paper **"Local Matters: Calibration Requirements in Online Conformal Forecasting"** (submitted to TMLR).
+Code and datasets for the paper **"Local Matters: Calibration Requirements in Online Conformal Forecasting"** .
  
 ## Overview
  
@@ -69,6 +69,3 @@ All datasets are univariate, hourly (except Hydropower, daily).
 - In the imbalance-cost case study, LACI gives the lowest cost in 5 of 8 cases.
 
  
-## License
- 
-Add a license of your choice (e.g., MIT) before making the repository public.
