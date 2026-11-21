@@ -57,10 +57,7 @@ All datasets are univariate, hourly (except Hydropower, daily).
 ## Reproducing the Experiments
  
 1. Clone the repository:
-```bash
-git clone https://github.com/Manush-2005/TLMR_Local_Gitub.git
-cd TLMR_Local_Gitub
-```
+
 2. Install dependencies (Python 3, PyTorch, NumPy, pandas, scikit-learn, matplotlib).
 3. Make sure the data files are in `Datasets/`.
 4. Open the notebooks/scripts inside the experiment folder you want (see the table above) and run them in order. Each folder contains the code and outputs for the tables and figures of its paper section.
@@ -70,16 +67,7 @@ cd TLMR_Local_Gitub
 - LACI raises average LPIA to about 68%, achieving the best LPIA in most datasets at a modest cost in interval width.
 - The gains hold across LSTM, GRU and TCN forecasters.
 - In the imbalance-cost case study, LACI gives the lowest cost in 5 of 8 cases.
-## Citation
- 
-```bibtex
-@article{laci2026,
-  title   = {Local Matters: Calibration Requirements in Online Conformal Forecasting},
-  author  = {Anonymous},
-  journal = {Transactions on Machine Learning Research (under review)},
-  year    = {2026}
-}
-```
+
  
 ## License
  
